@@ -23,3 +23,7 @@ Like renting an unfurnished apartment: you get the space (walls, electricity, wa
 ### Definition
 - removes the need for organization to manage the underlying infrastructure
 - focus on the deployment and management of your applications
+
+## Saas (Software as a service)
+###
+- Completed a product that is run and manage by the service provider
