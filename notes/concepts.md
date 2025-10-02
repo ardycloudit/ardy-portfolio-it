@@ -21,5 +21,5 @@ Like renting an unfurnished apartment: you get the space (walls, electricity, wa
 
 ## PaaS (Platform as a service)
 ### Definition
--removes the need for organization to manage the underlying infrastructure
--focus on the deployment and management of your applications
+- removes the need for organization to manage the underlying infrastructure
+- focus on the deployment and management of your applications
